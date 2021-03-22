@@ -1,7 +1,7 @@
-#Ohjelmisto Tekniikka, harjoitustyö#
+#Ohjelmisto Tekniikka, harjoitustyö
 
-##Tehtävät##
+##Tehtävät
 
-###Viikko 1###
+###Viikko 1
 
 *hei*
