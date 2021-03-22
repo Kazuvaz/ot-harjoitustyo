@@ -1,0 +1,95 @@
+commit 123d4f76399c3e8510c2c89f5536f4b5e4e66abf
+Author: Kazuva <Kazuvaza@outlook.com>
+Date:   Mon Mar 22 05:44:02 2021 +0200
+
+    loppu
+
+ hakemisto/file1             | 1 -
+ hakemisto/{file2 => file22} | 0
+ 2 files changed, 1 deletion(-)
+
+commit 6f32b5d4218f12dddf1b7b1d4f1c09f1b439633a
+Author: Kazuva <Kazuvaza@outlook.com>
+Date:   Mon Mar 22 05:39:22 2021 +0200
+
+    filet
+
+ hakemisto/file1 | 1 +
+ hakemisto/file2 | 0
+ hakemisto/file3 | 0
+ 3 files changed, 1 insertion(+)
+
+commit b2f705fe0a346e7e28c3f3235bace405de567180
+Author: Kazuva <Kazuvaza@outlook.com>
+Date:   Mon Mar 22 04:18:20 2021 +0200
+
+    muutoksia
+
+ eka.txt    | 2 +-
+ kolmas.txt | 2 +-
+ 2 files changed, 2 insertions(+), 2 deletions(-)
+
+commit 7e6b6980a5bbcbd7612e1c56f59daa0f1fe4e75f
+Author: Kazuva <Kazuvaza@outlook.com>
+Date:   Mon Mar 22 04:15:01 2021 +0200
+
+    rename
+
+ tiedosto.txt => eka.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit d1619b94f5f07b871da247c79ffaadbffc811172
+Author: Kazuva <Kazuvaza@outlook.com>
+Date:   Mon Mar 22 04:13:15 2021 +0200
+
+    toisen poisto
+
+ toinen.txt | 1 -
+ 1 file changed, 1 deletion(-)
+
+commit 53f63f594dc273935f8c42a4871146ae10e60825
+Author: Kazuva <Kazuvaza@outlook.com>
+Date:   Mon Mar 22 04:05:10 2021 +0200
+
+    stuff
+
+ stuff/heh.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 0e3cd79cb80c89c1067c508b7b9f87fe37086225
+Author: Kazuva <Kazuvaza@outlook.com>
+Date:   Mon Mar 22 04:02:25 2021 +0200
+
+    t ja k muutot
+
+ kolmas.txt | 1 +
+ toinen.txt | 1 +
+ 2 files changed, 2 insertions(+)
+
+commit e55c3e10cfe225f7918cd9b6336268199adfa645
+Author: Kazuva <Kazuvaza@outlook.com>
+Date:   Mon Mar 22 04:00:37 2021 +0200
+
+    kolmas lisäys
+
+ kolmas.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit c03660071a431e1a584ec5bc7042932c544fb77f
+Author: Kazuva <Kazuvaza@outlook.com>
+Date:   Mon Mar 22 03:50:35 2021 +0200
+
+    muutos ja lisäys
+
+ tiedosto.txt | 1 +
+ toinen.txt   | 0
+ 2 files changed, 1 insertion(+)
+
+commit 9377a31f8eceed8727b3c33f5e5eecf58d5e0462
+Author: Kazuva <Kazuvaza@outlook.com>
+Date:   Mon Mar 22 03:47:03 2021 +0200
+
+    tiedosto.txt luotu
+
+ tiedosto.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
