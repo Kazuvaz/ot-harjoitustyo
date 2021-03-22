@@ -2,7 +2,7 @@
 
 ## Tehtävät ##
 
-### Viikko 1 ###
+#### Viikko 1 ####
 
 [Gitlog](https://github.com/Kazuvaz/ot-harjoitustyo/blob/main/viikko1/gitlog.txt)
 
