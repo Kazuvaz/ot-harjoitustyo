@@ -1,6 +1,7 @@
-# jotakin **tekstiä**
+#Ohjelmisto Tekniikka, harjoitustyö*
 
+##Tehtävät##
 
-lisää tekstiä
+###Viikko 1###
 
 *hei*
